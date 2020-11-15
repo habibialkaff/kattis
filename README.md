@@ -1,3 +1,3 @@
 Solving Kattis problems for 2 reasons
-* Sharpening writing Go syntax
+* Sharpening my Go language skill
 * Brain exercises
